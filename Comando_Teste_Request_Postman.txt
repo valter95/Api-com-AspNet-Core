@@ -1,0 +1,19 @@
+Comandos do Postman para teste 
+POST -> http://localhost:5000/filme
+Json 
+{
+    "Titulo": "Harry Potter 3",
+    "Genero": "Aventura",
+    "Diretor": "JK Rowling  ",
+    "Duração": "240"
+}
+GET -> http://localhost:5000/filme (Retorna todos os filmes RecuperarFilmes())
+GET -> http://localhost:5000/filme/4 (Retorna somente os filme solicitado RecuperarFilmesPorId())
+PUT -> http://localhost:5000/filme/5 (Atualiza filme atraves do id vindo da requisição AtualizarFilme())
+{
+    "titulo": "O senhor I5",
+    "diretor": "Peter Jackson",
+    "genero": "Aventuras",
+    "duracao": 0
+}
+DETLETE -> http://localhost:5000/filme/1 (Efetua a deleção do id vindo da requisição)
