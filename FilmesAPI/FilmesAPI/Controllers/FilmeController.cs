@@ -15,10 +15,10 @@ namespace FilmesAPI.Controllers
     public class FilmeController : ControllerBase
     {
         //Criando uma variavel do tipo context 'Banco'
-        private FilmeContext _context;
+        private AppDbContext _context;
         private IMapper _mapper;
         //Criando o construr do Context
-        public FilmeController(FilmeContext context, IMapper mapper)
+        public FilmeController(AppDbContext context, IMapper mapper)
         {
             _context = context;
             _mapper = mapper;
