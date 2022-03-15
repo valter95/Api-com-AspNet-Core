@@ -68,8 +68,8 @@ C:\Users\Valtinho\Programas\Api-com-AspNet-Core\FilmesAPI\FilmesAPI\bin\Debug\ne
 C:\Users\Valtinho\Programas\Api-com-AspNet-Core\FilmesAPI\FilmesAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\Valtinho\Programas\Api-com-AspNet-Core\FilmesAPI\FilmesAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Valtinho\Programas\Api-com-AspNet-Core\FilmesAPI\FilmesAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\Valtinho\Programas\Api-com-AspNet-Core\FilmesAPI\FilmesAPI\obj\Debug\netcoreapp3.1\FilmesAPI.csprojAssemblyReference.cache
 C:\Users\Valtinho\Programas\Api-com-AspNet-Core\FilmesAPI\FilmesAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
 C:\Users\Valtinho\Programas\Api-com-AspNet-Core\FilmesAPI\FilmesAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
 C:\Users\Valtinho\Programas\Api-com-AspNet-Core\FilmesAPI\FilmesAPI\obj\Debug\netcoreapp3.1\FilmesAPI.csproj.CoreCompileInputs.cache
 C:\Users\Valtinho\Programas\Api-com-AspNet-Core\FilmesAPI\FilmesAPI\obj\Debug\netcoreapp3.1\FilmesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Valtinho\Programas\Api-com-AspNet-Core\FilmesAPI\FilmesAPI\obj\Debug\netcoreapp3.1\FilmesAPI.csprojAssemblyReference.cache

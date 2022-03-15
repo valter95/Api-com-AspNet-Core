@@ -28,6 +28,7 @@ namespace FilmesAPI
         public void ConfigureServices(IServiceCollection services)
         {
             //Configurando a inicialização da string de conexão
+            // Adicionado o método UseLazyLoadingProxies() para conseguir exbir os detalhes do Endereço
             services.AddDbContext<AppDbContext>(opts => opts.UseLazyLoadingProxies().UseMySQL(Configuration.GetConnectionString("FilmeConnection")));
             services.AddControllers();
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());

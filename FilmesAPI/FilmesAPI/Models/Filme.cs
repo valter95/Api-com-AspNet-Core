@@ -18,5 +18,7 @@ namespace FilmesAPI.Models
         [StringLength(30, ErrorMessage = "O gênero não pode passar de 30 caracteres")]
         public string Genero { get; set; }
         public int Duracao { get; set; }
+
+        public virtual List<Sessao> Sessoes { get; set; }
     }
 }
