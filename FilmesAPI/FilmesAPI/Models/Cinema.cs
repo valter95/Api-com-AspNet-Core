@@ -20,7 +20,7 @@ namespace FilmesAPI.Models
         public virtual Gerente Gerente { get; set; } // Mapeamento para gerar o relacionamento 
         
         public int GerenteId { get; set; } // Mapeamento para gerar o relacionamento 
-
+        [JsonIgnore]
         public virtual List<Sessao> Sessoes { get; set; }
     }
 }
