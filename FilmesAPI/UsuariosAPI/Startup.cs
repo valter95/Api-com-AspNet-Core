@@ -13,6 +13,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using UsuariosAPI.Data;
+using UsuariosAPI.Services;
 
 namespace UsuariosAPI
 {
@@ -32,6 +33,11 @@ namespace UsuariosAPI
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
             services.AddDbContext<UserDbContext>(Options => Options.UseMySQL(Configuration.GetConnectionString("UsuarioConnection")));
             services.AddIdentity<IdentityUser<int>, IdentityRole<int>>().AddEntityFrameworkStores<UserDbContext>();
+            services.AddScoped<CadastroService, CadastroService>();
+            services.AddScoped<LoginService, LoginService>();
+            services.AddScoped<TokenService, TokenService>();
+            services.AddScoped<LogoutService, LogoutService>();
+
 
         }
 

@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Microsoft.AspNetCore.Identity;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,6 +14,7 @@ namespace UsuariosAPI.Profiles
         public UsuarioProfile()
         {
             CreateMap<CreateUsuarioDto, Usuario>();
+            CreateMap<Usuario, IdentityUser<int>>();
         }
     }
 }

@@ -45,6 +45,10 @@
               "target": "Package",
               "version": "[8.1.1, )"
             },
+            "FluentResults": {
+              "target": "Package",
+              "version": "[2.5.0, )"
+            },
             "Microsoft.AspNetCore.Identity": {
               "target": "Package",
               "version": "[2.2.0, )"
@@ -74,6 +78,10 @@
             "MySql.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.5, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.12.0, )"
             }
           },
           "imports": [
