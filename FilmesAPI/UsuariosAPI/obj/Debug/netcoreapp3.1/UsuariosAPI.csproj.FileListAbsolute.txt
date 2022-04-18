@@ -2,7 +2,6 @@ C:\Users\Valtinho\Programas\Api-com-AspNet-Core\FilmesAPI\UsuariosAPI\bin\Debug\
 C:\Users\Valtinho\Programas\Api-com-AspNet-Core\FilmesAPI\UsuariosAPI\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Valtinho\Programas\Api-com-AspNet-Core\FilmesAPI\UsuariosAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\Valtinho\Programas\Api-com-AspNet-Core\FilmesAPI\UsuariosAPI\bin\Debug\netcoreapp3.1\UsuariosAPI.exe
-C:\Users\Valtinho\Programas\Api-com-AspNet-Core\FilmesAPI\UsuariosAPI\obj\Debug\netcoreapp3.1\UsuariosAPI.csprojAssemblyReference.cache
 C:\Users\Valtinho\Programas\Api-com-AspNet-Core\FilmesAPI\UsuariosAPI\obj\Debug\netcoreapp3.1\UsuariosAPI.AssemblyInfoInputs.cache
 C:\Users\Valtinho\Programas\Api-com-AspNet-Core\FilmesAPI\UsuariosAPI\obj\Debug\netcoreapp3.1\UsuariosAPI.AssemblyInfo.cs
 C:\Users\Valtinho\Programas\Api-com-AspNet-Core\FilmesAPI\UsuariosAPI\obj\Debug\netcoreapp3.1\UsuariosAPI.RazorTargetAssemblyInfo.cache
@@ -60,5 +59,8 @@ C:\Users\Valtinho\Programas\Api-com-AspNet-Core\FilmesAPI\UsuariosAPI\bin\Debug\
 C:\Users\Valtinho\Programas\Api-com-AspNet-Core\FilmesAPI\UsuariosAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
 C:\Users\Valtinho\Programas\Api-com-AspNet-Core\FilmesAPI\UsuariosAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Valtinho\Programas\Api-com-AspNet-Core\FilmesAPI\UsuariosAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Valtinho\Programas\Api-com-AspNet-Core\FilmesAPI\UsuariosAPI\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\Valtinho\Programas\Api-com-AspNet-Core\FilmesAPI\UsuariosAPI\bin\Debug\netcoreapp3.1\MimeKit.dll
 C:\Users\Valtinho\Programas\Api-com-AspNet-Core\FilmesAPI\UsuariosAPI\obj\Debug\netcoreapp3.1\UsuariosAPI.csproj.CoreCompileInputs.cache
 C:\Users\Valtinho\Programas\Api-com-AspNet-Core\FilmesAPI\UsuariosAPI\obj\Debug\netcoreapp3.1\UsuariosAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Valtinho\Programas\Api-com-AspNet-Core\FilmesAPI\UsuariosAPI\obj\Debug\netcoreapp3.1\UsuariosAPI.csprojAssemblyReference.cache
