@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vqxq9P2MVe0hbhbJChMmKk7y90LAzDM98E7RY3UkTOrFWskL6Ha+y3zAzldE5EjklRQJY1EthAdwIn0pOQQP/Q==",
+  "dgSpecHash": "rYbL5In/ud7dvL09uRTvtOUaOHLPxffYs52YWvg2ArhGWQGTK9kWB4J0pq3Pq78tXvnSUJ37wgf1yOwd2jgoHA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Valtinho\\Programas\\Api-com-AspNet-Core\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,8 @@
     "C:\\Users\\Valtinho\\.nuget\\packages\\k4os.compression.lz4\\1.1.11\\k4os.compression.lz4.1.1.11.nupkg.sha512",
     "C:\\Users\\Valtinho\\.nuget\\packages\\k4os.compression.lz4.streams\\1.1.11\\k4os.compression.lz4.streams.1.1.11.nupkg.sha512",
     "C:\\Users\\Valtinho\\.nuget\\packages\\k4os.hash.xxhash\\1.0.6\\k4os.hash.xxhash.1.0.6.nupkg.sha512",
+    "C:\\Users\\Valtinho\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.11\\microsoft.aspnetcore.authorization.5.0.11.nupkg.sha512",
+    "C:\\Users\\Valtinho\\.nuget\\packages\\microsoft.aspnetcore.metadata\\5.0.11\\microsoft.aspnetcore.metadata.5.0.11.nupkg.sha512",
     "C:\\Users\\Valtinho\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Valtinho\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.5\\microsoft.entityframeworkcore.5.0.5.nupkg.sha512",
     "C:\\Users\\Valtinho\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.5\\microsoft.entityframeworkcore.abstractions.5.0.5.nupkg.sha512",

@@ -28,6 +28,10 @@ namespace FilmesAPI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddAuthentication(auth =>
+            {
+                //auth.DefaultAuthenticateScheme = JwtBearerDefauts.AuthenticationScheme
+            });
             //Configurando a inicialização da string de conexão
             // Adicionado o método UseLazyLoadingProxies() para conseguir exbir os detalhes do Endereço
             services.AddDbContext<AppDbContext>(opts => opts.UseLazyLoadingProxies().UseMySQL(Configuration.GetConnectionString("FilmeConnection")));
